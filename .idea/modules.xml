@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aiproject.iml" filepath="$PROJECT_DIR$/aiproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyai/studyai.iml" filepath="$PROJECT_DIR$/studyai/studyai.iml" />
+    </modules>
+  </component>
+</project>
